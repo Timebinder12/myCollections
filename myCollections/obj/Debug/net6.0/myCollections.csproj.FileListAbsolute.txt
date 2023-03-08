@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\myCollections.csproj.AssemblyReference.cache
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\myCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\myCollections.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\myCollections.AssemblyInfo.cs
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\myCollections.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\myCollections\myCollections\bin\Debug\net6.0\myCollections.exe
+C:\Users\shane\source\repos\myCollections\myCollections\bin\Debug\net6.0\myCollections.deps.json
+C:\Users\shane\source\repos\myCollections\myCollections\bin\Debug\net6.0\myCollections.runtimeconfig.json
+C:\Users\shane\source\repos\myCollections\myCollections\bin\Debug\net6.0\myCollections.dll
+C:\Users\shane\source\repos\myCollections\myCollections\bin\Debug\net6.0\myCollections.pdb
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\myCollections.dll
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\refint\myCollections.dll
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\myCollections.pdb
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\myCollections.genruntimeconfig.cache
+C:\Users\shane\source\repos\myCollections\myCollections\obj\Debug\net6.0\ref\myCollections.dll
